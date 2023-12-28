@@ -1,4 +1,4 @@
-# COVID-Resnet18
+# COVID-19 CT scan diagnosis using Resnet18
 
 ### Overview:
 Welcome to my Data Science Portfolio! This repository showcases my project, COVID-19 diagnosis through the analysis of CT images. 
