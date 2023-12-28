@@ -9,7 +9,7 @@ In this project, we aim to leverage the power of deep learning for the crucial t
 I constructed a specialized 2D CNN tailored for the diagnosis of COVID-19 using chest CT images. The foundation of the CNN will be based on the Resnet-18 architecture, which will be adaptedto suit the specific requirements of binary classification, distinguishing between COVID-19 positive and negative cases. My approach involves training the CNN from scratch to ensure that the model learns features and representations relevant to COVID-19 diagnosis. To enhance the interpretability and transparency of our model, we will employ two Class Activation Mapping (CAM) methods: GradCAM and EigenCAM. These  techniques will allow us to gain insights into the regions of the CT images that significantly contribute to the model's predictions. By visualizing the activated regions, we can better understand the decision-making process of the CNN and provide valuable insights for medical professionals. GradCAM and EigenCAM will be employed to visualize the model's attention on specific regions of the input images.
 
 ### Technologies Used:
-Jupyter Notebook, Python, 
+Jupyter Notebook, Python
 
 ### Expected Outcomes:
 
