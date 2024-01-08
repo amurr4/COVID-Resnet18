@@ -11,6 +11,11 @@ I constructed a specialized 2D CNN tailored for the diagnosis of COVID-19 using 
 ### Technologies Used:
 Jupyter Notebook, Python
 
+### Data Used:
+Covid CT scans: 1,252 images
+Non-Covid CT scans: 1,230 images
+Images provided by class instructor
+
 ### Expected Outcomes:
 
 A trained 2D CNN capable of accurately classifying COVID-19 cases from CT images. Visualization of model insights using GradCAM and EigenCAM, providing transparency into the decision-making process. A comprehensive understanding of the model's performance and its potential applications in the diagnosis of COVID-19. This project aligns advanced deep learning techniques with medical diagnostics, contributing to the ongoing efforts to combat the global COVID-19 pandemic.
