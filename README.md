@@ -1,5 +1,7 @@
 # COVID-19 CT scan diagnosis using Resnet18
+
 Author: Annika Murray
+
 Portfolio Webpage: https://amm7548.wixsite.com/am-portfoliom-ds
 
 ### Overview:
